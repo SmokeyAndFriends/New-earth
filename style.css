@@ -8,6 +8,5 @@ body {
   outline: 14px solid #ffffff;
   background-color: #000000;
   text-align: center;
-  width: auto;
-  height: auto;
+  display: inline-block;
 }
