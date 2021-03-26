@@ -1,1 +1,11 @@
+body {
+  background: radial-gradient(#535353, #000000);
+  color: #FFFFFF;
+}
 
+#tb {
+  outline: 14px solid #ffffff;
+  background-color: #000000;
+  text-align: center;
+  
+}
