@@ -1,5 +1,5 @@
 body {
-  background: radial-gradient(#535353, #000000);
+  background: repeating-linear-gradient(0deg, #000000, #aaaaaa 50%);
   color: #FFFFFF;
   font-family: 'Oswald', sans-serif
 }
